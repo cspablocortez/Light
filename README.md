@@ -11,13 +11,10 @@ With a touch of the screen, change the background to turn all white or all black
 
 ### Screenshots: 
 
-#### ON: 
+#### ON and OFF: 
 
 <img src="https://i.ibb.co/4WM1HLQ/Screen-Shot-2020-06-21-at-1-02-26-PM.png" width="300px" height="580px">
 
-
-
-#### OFF:
 
 <img src="https://i.ibb.co/PjM2Fnj/Screen-Shot-2020-06-21-at-1-02-54-PM.png" width="300px" height="580px">
 
