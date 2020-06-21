@@ -1,5 +1,6 @@
-# LIGHT  
 <img src="https://i.ibb.co/8bWNFXM/180.png" width="100px" height="100px;">
+
+# LIGHT
 
 With a touch of the screen, change the background to turn all white or all black.
 
