@@ -8,5 +8,15 @@ With a touch of the screen, change the background to turn all white or all black
  - Fix bug crashes
 
 
-## Screenshots: 
+### Screenshots: 
+
+#### ON: 
+
+https://i.ibb.co/4WM1HLQ/Screen-Shot-2020-06-21-at-1-02-26-PM.png
+
+
+
+#### OFF:
+
+ https://i.ibb.co/PjM2Fnj/Screen-Shot-2020-06-21-at-1-02-54-PM.png
 
